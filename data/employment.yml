@@ -5,39 +5,55 @@ source:
     place: Philips Healthcare Systems R&D, Philips Campus, India
     time: December, 2018 to Present
     description: > 
-                  Principal Architect for Health Suite On-premises (HSoP) world-wide at Philips Healthcare R&D. Enabling  Next Generation Healthcare systems on-premise. 
+                  Principal Architect for Health Suite on-Premise (HSoP) world-wide at Philips Healthcare R&D. Enabling  Next Generation Healthcare systems on-premise. 
     description1: >
-                  Primary Program writer for Infrastructure as code for multi-hypervisor enablement and large scale deployments including managed Kubernetes and the "hard way" for immutable infrastructure on premise. Designed and implemented with high feature toggle and scalability.
+                  Primary Program writer for Infrastructure as code for multi-hypervisor enabling [StratoScale AWS and vSphere] and large scale deployments including managed Kubernetes and the "hard way" for immutable infrastructure on premise. Designed and implemented with high feature toggle and scalability. This encompasses core services of HL7 Broker, FHIR Server, OIDC Providers, Centralized Vault for secrets management and provisioners of multiple storage classes.
     description2: >
-                  Define, implement, benchmark multi-GPU Fabrics for usage of R&D graphical and parallel compute intensive applications with toolkits for supervised/un-supervised training against models, Medical containers. GPU Fabric choices for Compute/Visualization for various modules. 
+                  Define, implement, benchmark multi-GPU Fabrics for usage of R&D graphical and parallel compute intensive applications with toolkits for supervised/un-supervised training against models, Medical containers. GPU Fabric choices for Compute/Visualization for various modules. This is for Computed Tomography, Health Suite Insights and Radiation Oncology.
     description3: >
-                  Engineering lead and team mentor.
+                  Implement automated workflow for Onboarding new applications via Service mesh, Image Hardening, container scanning via Vulnerability scanning and pluggable CI/CD in a scalable fashion.
     description4: >
-                  Contribute to Opensource and CNCF Projects.
+                  End to end design for Program increment of Health Suite on-Premise (HSoP) into a Hybrid Cloud platform with AWS Public Cloud. 
     description5: >
-                  Manage Multi-vendors for Philips HSoP hypervisor hardware.
+                  Manage Multi-vendors for Philips HSoP hypervisor hardware and licensing.
+    description6: >
+                  Contribute to Opensource and CNCF Projects.
+    description7: >
+                  Engineering lead and team mentor.
+    description8: >
+                  Kicked off initiatives in exploring and enhancing CLARA Medical Image Containers and NVIDA DIGITS based frameworks as a viable commercial product on commodity hardware and cards. Assist in establishing standard tool stacks at Philips R&D and accelerating standards based Microservices incubation and roll-outs.
+    description9: >
+                  OpenSource, Enterprise Architectural Patterns, Kubernetes, Security, helm3, AWS, StratoScale, vSphere, RHEL, CentOS, Consul, EFK, Prometheus, Kubernetes OID, Keycloak, Microservices, GPUs, NVIDIA, Ansible, CUDA, Python, APIs, Immutability, Service Mesh, Air-gapped Environment, Java, Spring Cloud, HL7, FHIR, Deployments, Jenkins, Ansible, Terraform, Postgres, Active Directory, HPC, RDMA, GPU-Direct.
 
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands and Western Europe
     time: May, 2017 to November, 2018
     description: > 
-                  Senior Solution Director working cross verticals and responsible for our customer solutions. Lead, build and work with our engineering/project implementation teams targetting automated reusable scalable all layer stacks.
+                  Senior Solution Director working cross verticals and responsible for our customer solutions. Lead, build and work with our engineering/project implementation teams targeting automated reusable scalable all layer stacks.
     description1: >
-                  Public and Private Cloud enablement, microservices on immutable infrastructures, container standards/implementations for European conglomerates. Automatic deployment of Bare or managed Kubernetes or Redhat OpenShift Container Platform for various topologies and hypervisors and design of microservices. Extensively work for Digital Banks for greenfield deployments.
+                  Public and Private Cloud enabling, microservices on immutable infrastructures, container standards/implementations for European conglomerates. Automatic deployment of Bare or managed Kubernetes or Red hat OpenShift Container Platform for various topologies and hypervisors and design of microservices. Extensively work for Digital Banks for greenfield deployments.
     description2: >
                   Industry solution implementations for stacks span Banking, Financial services and Insurance, Supply Chain and manufacturing.
     description3: >
-                  Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning.
+                  Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning especially for clinical trial companies and the automotive industry.
     description4: >
-                  Assist Go To market teams. Focus on Standard Infrastructure as a code for immutable scalable infrastructures for our customers.
+                  Extensive automated cloud solution deployments in an immutable and scalable fashion especially HA Dataproc, GCP and Azure based GPU Grids for multiple customers. 
     description5: >
-                  Contribute to Opensource and CNCF Projects on Github.
+                  Created and rolled out a rancher 2.x platform with inbuilt service mesh (Istio), Layer7 and Layer4 Loadbalancers, Granular Security including RBAC with multi providers for GCP/AWS and Azure.
+    description6: >
+                  Specific Business Unit Revenue jumps of almost 200% over four quarters and is consistently commensurate with well-developed and planned roll out of the above solutions in Western, Northern and  Central Europe as well as The United Kingdom.
+    description7: >
+                  Assist Go To market teams.
+    description8: >
+                  Implement cloud based SaaS Self service app for multi cloud deployments. Contribute to opensource and CNCF Projects on Github.
+    description9: >
+                  OpenSource, Enterprise Architectural Patterns, Microservices, API Design, Java, Spring Cloud, Service Mesh, Kubernetes, AKS, GKE, Dataproc, GCP, Azure, AWS, Ansible, Terraform, Postgres, Oracle, Ansible, Terraform, Hadoop, Kafka, Istio, Prometheus, EFK, ELK, CUDA, NVIDIA, Schedulers- Torque, SLURM,HPC, RDMA, GPU-Direct, ROS Kinetic, Mellanox, Keycloak, Security, Red hat OSE, HAProxy, Middleware, python, golang, helm2, CI/CD, node.js
 
   - prof: Cloud Solution Architect
-    place: Microsoft B.V., The Netherlands, Seattle and Houston - U.S.A
+    place: Microsoft B.V., The Netherlands, Seattle and Houston
     time: January, 2016 to April, 2017
     description: >
-                  Specialized in HPC and GPU Computes for Energy upstream industry, contributed heavily to IaaC topology automation for Azure and NVIDIA as opensource. Worked on early Docker Data Center Automated topologies and contributed for Azure opensource.
+                  Specialized in HPC and GPU Computes for Energy upstream and manufacturing simulations, contributed heavily to IaaC topology automation for Azure and NVIDIA as opensource. Worked on early Docker Data Center Automated topologies and contributed for Azure opensource.
     description1: >
                   Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps.
     description2: >
@@ -48,6 +64,14 @@ source:
                   Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure).
     description5: >
                   Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba.
+    description6: >
+                  Automated Benchmarking and scalability on the compute GRIDS for various business for their simulations especially for automotive and Ship Building HPC R&D.
+    description7: >
+                  Supported end users in the usage of the open sourced Compute Grids and Visualizations, especially Geologists, Petroleum engineers, Simulation engineers and HPC R&D.
+    description8: >
+                  Enable multi options for GPU Direct, iWARP, ROCE v2 for the best fabric combinations as part of Azure. Evangelized on stacks at partner and customer meet ups via lightning talks and demos.
+    description9: >  
+                  Opensource, Git, Enterprise Architectural Patterns, High Performance Computing, NVIDA, Cluster Patterns, GPU-Direct, Azure, AKS, OMS, Visualization GPUS, Keras, DIGITS, CNTK, Tensor Flow,  C++, CUDA, Spring Boot, NVIDIA Tesla, SLURM, Torque, Kubernetes, .NET, python, JWT, CI/CD, .NET, node.js.
 
   - prof: Principal, Solution Architecture
     place: Exact Software, The Netherlands
@@ -63,45 +87,68 @@ source:
                    Leading outsourced Data Center Choice and Implementation/Redesign initiatives for private/public Cloud.
     description5: >
                    Product Management for reducing market churn in older product lines.
-  
+    description6: >
+                   Componentization of older siloed product stacks in a distributed topology and composable micro services.
+    description7: >
+                   Evangelized future Exact Product lines in meet ups and focus groups.
+    description8: >
+                   Rolled out internal hackathons for rapid proto-typing. Advise Exact Board on technology trends and inputs on product management.
+    description9: >
+                  .NET, COM, COM+, SQL Server, Deployments, Architecture, Design, Solution Architecture.
+                   
   - prof: Senior Consultant
     place: Enable-U B.V., The Netherlands and African Continent.
     time: February 2013 to July, 2015
     description: >
                   Enable-U enables different businesses get a better grip on their IT Architecture. The company operations span across Benelux including the Dutch Government, European Instituitions, in South Africa and in the Middle-east. We provided and implemented automated API Management, SOA Governance solutions, Perimeter Appliance Security and Business Transformation Solutions via product stacks as well as developed product solutions ourselves. Some of Dwai's work @ Enable-U are as follows-
     description1: >
-                  Created, implemented and productized the Enable-U Middleware AutoDiscovery and Governance as a High Traction flagship integration product with an essential team of two. Systinet Dev for Various Governance as a discovery engine- https://www.enable-u.com/portfolio-item/enable-u-2discover/. As part of the above, massive TIBCO ActiveMatrix Node Architectures as well as traditional businessWorks engine deployments can be extracted in real-time into runtime Governance with complete Business and Technical services dependencies into self controllable units. This leverages a SOA/API Model with AMX/BusinessWorks APIs optionally via runtime UDDI v3 API and Systinet APIs with a fool-proof Design, pattern-matching algorithms and corresponding clean DevOps implementation. It is deployed and running for major Western European Financial instituitions as well as Telecom Conglomerates. Incremental Product features include extending the AutoDiscovery to IBM Integration Bus and the Oracle SOA Suite.
+                  Created, implemented and productized the Enable-U Middleware AutoDiscovery and Governance as a High Traction flagship integration product with an essential team of two. Systinet Dev for Various Governance as a discovery engine. As part of the above, massive TIBCO ActiveMatrix Node Architectures as well as traditional businessWorks engine deployments can be extracted in real-time into runtime Governance with complete Business and Technical services dependencies into self controllable units. This leverages a SOA/API Model with AMX/BusinessWorks APIs optionally via runtime UDDI v3 API and Systinet APIs with a fool-proof Design, pattern-matching algorithms and corresponding clean DevOps implementation. It is deployed and running for major Western European Financial institutions well as Telecom Conglomerates. Incremental Product features include extending the AutoDiscovery to IBM Integration Bus and the Oracle SOA Suite.
     description2: >
                   Architect for Ministry of Devolution and Planning Management (HUDUMA), office of the President, Republic of Kenya where the vision is to implement a full scale eGovernance operating model across Kenya using a classic Federated Hub and Spoke model featuring flagship products from Oracle, TIBCO and Amazon Web Services.
     description3: >
                   Implemented SOA Governance for Eurocontrol (EU Air Traffic Management) and also acted as Security Consultant for Eurocontrol for implementing a layered Security model.
     description4: >
-                   Dwai was also the primary Architect for the new Enable-U 2 Orchestrate stack for the Dutch Government for seamless message transformations, perimeter security and service/API governance. This is deployed as per federated patterns of various Government institutions following API Maturity levels.
+                  Dwai was also the primary Architect for the new Enable-U 2 Orchestrate stack for the Dutch Government for seamless message transformations, perimeter security and service/API governance. This is deployed as per federated patterns of various Government institutions following API Maturity levels.
     description5: >
-                   Created, developed, implemented and productized an automated Monitoring Infrastructure on AWS using EC2 SDK and Nagios for OneGini – a security product startup in The Netherlands. This small product set leverages automatic AWS Infra unlike existing commercialized and end2end Advanced Nagios EC2 Solutions.Sets up and Administers Enable-U Hypervisors including VMWare ESX and Hyper-V with associated automations via tools like vagrant, chef and Nagios. Also created custom ruby plugins for Vagrant.
-
+                  Created, developed, implemented and productized an automated Monitoring Infrastructure on AWS using EC2 SDK and Nagios for OneGini – a security product startup in The Netherlands. This small product set leverages automatic AWS Infra unlike existing commercialized and end2end Advanced Nagios EC2 Solutions.
+    description6: >
+                  Sets up, automated and Administered Enable-U Hypervisors including VMWare ESX and Hyper-V with associated automations via tools like vagrant, chef and Nagios. Also created custom ruby plugins for Vagrant.
+    description7: >
+                   Designed Implemented and rolled out a distributed automated service governance and onboarding for a large Western European Insurance Provider.
+    description8: >
+                  Led the solution implementations in new territories especially Africa for various businesses. Act as Team mentor and evangelized/ Demoed different API Gateways at different Dutch meet ups.
+    description9: >
+                  TIBCO, SOA, OpenSource, Enterprise Architectural Patterns, WebSphere, EJB3, python, Deployment Patterns, Security, JWT, Java, LAYER7, Appliances, vSphere, AWS, Vagrant, Linux, AIX, CI/CD.
+                   
   - prof: Domain Solution Architect
     place: Canon Europa N.V., The Netherlands
     time: October, 2011 to January, 2013
     description: >
-                  Dwai was the Pan-European Integration Solution and IT Architect @ Canon Europa N.V. The Canon Unity Programme formerly ‘One Canon’, will see the technology consolidation in a series of phases for all of Canon's business units -sales offices, stores, franchise outlets, warehouses across Europe, Middle East, and Africa. It is one of the largest IT initiatives in Europe. The Integration landscape of Canon Europa is growing rapidly and presently has more than 1.5 million high value and complex real-time transactions per month with almost double the number for monthly ETL processed loads. The Architecture deals with the movement of data from different systems in Canon as per evolving and smart Business Processes for Product Management, Account Management, Business to Business, Supply and Demand Planning, Budgeting and Forecasting, Enterprise Data warehousing, Self Service, Contact Centre, Field Services, Business Intelligence and Master Data Management. The landscape is now an essential growth engine for Canon Business in EMEA and able to plan and expand on strategic needs as well as absorb shocks hence contributing to the top line as well as the bottom line of Canon Europa. Dwai and his team in a little over a single year with their pattern implementations, On Demand Infrastructure operation and management- built , stabilized and future-proofed the Integration & Data landscape which is the main enabler of the eco-system. Dwai’s areas of functioning and achievements were as follows
+                  Dwai was the Pan-European Integration Solution and IT Architect @ Canon Europa N.V. The Canon Unity Programme formerly ‘One Canon’, will see the technology consolidation in a series of phases for all of Canon's business units -sales offices, stores, franchise outlets, warehouses across Europe, Middle East, and Africa. It is one of the largest IT initiatives in Europe. Dwai’s areas of functioning and achievements were as follows
     description1: >
-                  Design authority for all initiatives for Integration, data and B2B. Architected, Managed, led and drove the core technology team for Pattern Based Development, WebSphere, Oracle SOA, Informatica, ChainSys Batch integrations, Application and infrastructure monitoring, The Middleware and data Infrastructure.
+                  The Integration landscape of Canon Europa is growing rapidly and presently has more than 1.5 million high value and complex real-time transactions per month with almost double the number for monthly ETL processed loads.
     description2: >
-                  Standardized and implemented various well achitected, and automated end to end Business Processes using the above stack. Strategized, led and architected the Enterprise B2B Gateway initiatives.
+                  The Architecture deals with the movement of data from different systems in Canon as per evolving and smart Business Processes for Product Management, Account Management, Business to Business, Supply and Demand Planning, Budgeting and Forecasting, Enterprise Data warehousing, Self Service, Contact Centre, Field Services, Business Intelligence and Master Data Management.
     description3: >
-                  Created the Centre of Excellence for Integration and Data and managed a team of architects for laying the foundation framework for the same. Played the role of the technology lead for innovative and new technology implementations like Registry and Repository, Complex event processing, common services catalogue creation and implementation.
+                  The landscape is now an essential growth engine for Canon Business in EMEA and able to plan and expand on strategic needs as well as absorb shocks hence contributing to the top line as well as the bottom line of Canon Europa. Dwai and his team in a little over a single year with their pattern implementations, On Demand Infrastructure operation and management- built , stabilized and future-proofed the Integration & Data landscape which is the main enabler of the eco-system. 
     description4: >
-                  Continous developement and continuous integration Server implementation. Extensively managed and led the Canon Team and vendors including Deloitte, CapGemini and Logica for implementations as well as IBM, Oracle and Informatica for their product stacks including HP for infrastructure within Canon Europe.
+                  Standardized and implemented various well architected and automated end to end Business Processes using the above stack. Strategized, led and architected the Enterprise B2B Gateway initiatives.                  
     description5: >
-                  Managed the Functional Application maintenance and Technical Application maintenance multi-vendor teams. Managed the HP Infrastructure, hosted data center and cloud services team and corresponding initiatives for Integration and Data.
-
+                  Created the Centre of Excellence for Integration and Data and managed a team of architects for laying the foundation framework for the same. Played the role of the technology lead for innovative and new technology implementations like Registry and Repository, Complex event processing, common services catalogue creation and implementation.                  
+    description6: >
+                  Rolled out the initial new phase of canon ETL and Data especially using Informatica Suite.
+    description7: >
+                  Continuous development and continuous integration Server implementation. 
+    description8: >
+                  Extensively managed and led the Canon Team and vendors including Deloitte, CapGemini and Logica for implementations as well as IBM, Oracle and Informatica for their product stacks including HP for infrastructure within Canon Europe. Managed the Functional Application maintenance and Technical Application maintenance multi-vendor teams. Managed the HP Infrastructure, hosted data center and cloud services team and corresponding initiatives for Integration and Data.
+    description9: >
+                  SOA, OpenSource, Enterprise Architectural Patterns, WebSphere, Oracle, ETL, Informatica Powercenter, EJB3, python, Deployment Patterns, Security, JWT, Java, Messaging,  vSphere, AWS, Vagrant, jython, Linux, AIX, B2B, CI/CD.
 
   - prof: Technical Architect
     place: TMNS B.V., The Netherlands and Switzerland
     time: April, 2009 to October, 2011
     description: >
-                  At TMNS, Dwai architected, consulted and developed in product agnostic IT initiatives, Enterprise Architecture, Open Systems, Oracle, WebSphere, Progress, Apama, TIBCO, Mule, Cloud based Infrastructure implementations and open source derivatives. Besides, Dwai also managed the VMware Server farm for TMNS as well as is one of the key initiators of the TMNS Amazon EC2 based IAAS (Infrastructure as a Service) Software delivery platform (SDP). Some highlights of his work at TMNS are as follows-
+                  At TMNS, Dwai architected, consulted and developed in product agnostic IT initiatives, Enterprise Architecture, Open Systems, Oracle, WebSphere, Progress, Apama, TIBCO, Mule, Cloud based Infrastructure implementations and open source derivatives. Some highlights of his work at TMNS are as follows-
     description1: >
                   Strategized, Architected, developed and implemented a major Complex Event Processing based internet product (O2mc) for a heavily funded EU Internet startup. He and his team used Complex Event Processing (Progress Apama) with EPL (Event Processing Language) algorithms, Sonic ESB, Progress OpenEdge, innovative use of Amazon Web Services (AWS) based highly scalable cloud Infrastructure and a full blown open sourced Nagios based monitoring in Amazon EC2 environment to make O2mc a success. O2mc is essentially an online advertisement channel optimization, retargeting platform with automated Adword bidding via machine learning principles.
     description2: >
@@ -111,43 +158,64 @@ source:
     description4: >
                   Consulted for TMNS at xXess B.V, a Dutch Mobile startup for improving the throughput and performance of their Web Services. Dwai increased the complete transaction throughput by ~35% via thread tuning and smart code changes/ re-use.
     description5: >
-                  Dwai architected and developed the critical and tactical application (BSL FlexSat) in a new initiative for Swisscom Integration Framework @ Swisscom. TIBCO BusinessWorks (BW) was used to provision network slots, appointments and time required to the Customer via webservices (WS) exposure of BW processes and WS calls to exposed stubs of the backend. At Swisscom, defined and developed new interfaces using WebSphere Message Broker (Esql and Java) as well as non-EJB based custom JEE apps on WebSphere Application Server. Also, retrofitted new features within the existing old interfaces and code base. Took care of the AIX 5.3 GL environments.
+                  Dwai architected and developed the critical and tactical application (BSL FlexSat) in a new initiative for Swisscom Integration Framework @ Swisscom. TIBCO BusinessWorks (BW) was used to provision network slots, appointments and time required to the Customer via webservices (WS) exposure of BW processes and WS calls to exposed stubs of the backend. 
+    description6: >
+                  At Swisscom, defined and developed new interfaces using WebSphere Message Broker (Esql and Java) as well as non-EJB based custom JEE apps on WebSphere Application Server. Also, retrofitted new features within the existing old interfaces and code base. Took care of the AIX 5.3 GL environments.
+    description7: >
+                  Dwai also managed the VMware Server farm for TMNS as well as is one of the key initiators of the TMNS Amazon EC2 based IAAS (Infrastructure as a Service) Software delivery platform (SDP). Built a self service infrastructure deployment tool especially in hybrid context for on-prem hypervisors and public cloud - AWS.
+    description8: >
+                  Evangelized initial cloud usage during it's nascent stage to various business and consortiums. Implemented a composable generic middleware adapter framework for Telecom especially using a Canonical Data Model.
+    description9: >
+                  SOA, OpenSource, Enterprise Architectural Patterns, ESB, BPEL, TIBCO, WebSphere, Oracle, EJB3, python, Deployment Patterns, Security, JWT, Java, Messaging,  vSphere, AWS, Vagrant, python/jython, Complex Event Processing, Core Java, Linux, AIX, Messaging, vSphere, SAAS, B2B.
 
-    
   - prof: Technical Architect
     place: HCL Technologies, India and the World.
     time: June, 2007 to February, 2009
     description: >
                   Was one of the first technical architects for HCL Technologies. Had a very successful stint with great business growth both for products and solutions. He also managed and led the HCL- Cisco AON Labs. He architected and consulted for various customers across various geographies. Some highlights of his work at HCL Technologies are as follows-
     description1: >
-                  As a lead Solution Architect for HCL SOA Centre of Excellence passed Solutions, roadmaps, architectural work products, assessments in various inception stage and pre-sales activities for businesses as varied as Disney, Dai-ichi, Rexel Australia, Safeway, Goodyear Tire & Rubber Company, Cadbury, Labor & Industries (L&I) - Washington State, USAA Military Home, Life & Auto Insurance, GE Money, Tenaga Nasional Berhad, VF Imagewear and PAREXEL International, to name a few.
+                  As part of the Platform for Growth (PfG) program sponsored by the CIO of Halifax Bank of Scotland in Bristol(UK), Dwai implemented a SOA Governance model for managing the portfolio of services, the service life cycle, funding process and the policies to restrict behavior & monitoring performance of services
     description2: >
-                  As part of the Platform for Growth (PfG) program sponsored by the CIO of Halifax Bank of Scotland in Bristol(UK), Dwai implemented a SOA Governance model for managing the portfolio of services, the service lifecycle, funding process and the policies to restrict behavior & monitoring performance of services.
+                  Dwai also managed the Cisco AON (Application-Oriented Network) labs, product enhancements, Cisco SaaS gateways and other solutions at HCL as well as led and mentored a team of developers. AON (Application Oriented Networking) is a major driver of Cisco Systems' IIN (Intelligent Information Network) vision where the AON module (device) is a blade that resides in a Cisco router or switch with Multiple AON modules being deployed in a network, operating and providing middleware functions at the application message level rather than IP packet level.
     description3: >
-                  Dwai also managed the Cisco AON (Application-Oriented Network) labs, product enhancements, Cisco SaaS gateways and other solutions at HCL as well as led and mentored a team of developers. AON (Application Oriented Networking) is a major driver of Cisco Systems' IIN (Intelligent Information Network) vision where the AON module (device) is a blade that resides in a Cisco router or switch with Multiple AON modules being deployed in a network, operating and providing middleware functions at the application message level rather than IP packet level. It consists of a host of features including service virtualization, security, routing and transformation with the aid of bladelets and a plethora of adapters based on open Java APIs. Successfully implemented the following Cisco AON Initiatives for Cisco and HCL- The Cisco AON - Orange Israel – A product piloting and Implemented the strategic WebEx Connect gateway for Cisco AON, post merger of WebEx with Cisco Inc.
+                  Managed a large self serviced infrastructure for development and R&D of CISCO AON product line and own development team.
     description4: >
-                  Evangelized and conducted various sponsored and internal workshops on SOA enablement, method, pattern implementations and on new technologies. Led the WebSphere and Oracle Fusion efforts for the Centre of Excellence.
+                  Dwai and his team built a  host of features including service virtualization, security, routing and transformation with the aid of bladelets and a plethora of adapters based on open Java APIs.
     description5: >
-                  Created Scalable Infrastructures for lab maintenance, WebSphere topologies and Oracle SOA Suite topologies on various hypervisors.
-
-
+                  Successfully implemented the first Cisco AON initiative for Orange Israel – A product piloting and Implemented the strategic WebEx Connect gateway for Cisco AON, post merger of WebEx with Cisco Inc.
+    description6: >
+                  As a lead Solution Architect for HCL SOA Centre of Excellence passed Solutions, roadmaps, architectural work products, assessments in various inception stage and pre-sales activities for businesses as varied as Disney, Dai-ichi, Rexel Australia, Safeway, Goodyear Tire & Rubber Company, Cadbury, Labor & Industries (L&I) - Washington State, USAA Military Home, Life & Auto Insurance, GE Money, Tenaga Nasional Berhad, VF Imagewear and PAREXEL International, to name a few.                  
+    description7: >
+                  Received accolades and was well rewarded for Business Unit quarter on quarter revenue jumps.
+    description8: >
+                  Evangelized and conducted various sponsored and internal workshops on SOA enabling, method, pattern implementations and on new technologies. Led the WebSphere and Oracle Fusion efforts for the Centre of Excellence. Created Scalable Infrastructures for lab maintenance, WebSphere topologies and Oracle SOA Suite topologies on various hypervisors. 
+    description9: >
+                 SOA, OpenSource, Enterprise Architectural Patterns, Oracle, ESB, BPEL, TIBCO,  EJB3, python, Deployment Patterns, Security, JWT, Java, Messaging,  vSphere, python/jython, Complex Event Processing, Core Java, Linux, AIX, Messaging, vSphere, SAAS, B2B, CISCO, JavaScript.
+  
   - prof: Senior Member Technical Staff
     place: Oracle Server Technologies, India.
     time: April, 2006 to June, 2007
     description: >
-                  Oracle Fusion Middleware 11g is the stack of JBI (Java Business Integration) and SCA (Service Component Architecture) compliant enterprise middleware following evolving industry standards and patterns consisting of components or Service Engines on a common fabric engine. It includes industry acclaimed BPEL (Business Process Execution Language) Process Manager, mediator, rules, and Human workflow engines with flexible binding components for RFID sensor edge server. It leverages a plethora of JCA (J2EE Connector Architecture) compliant adapters along with an Event Delivery network for Complex Event Processing following Event Driven Architecture. Oracle Fusion Middleware 11g is on the top right corner of the Gartner magic quadrant for SOA stacks. Dwai was part of the Cross Product integration team for the 11g release as well as the initial 10.1.3.1 team for Oracle SOA Suite product development. The highlights of this very successful stint were the following -
+                  Dwai was part of the initial Cross Product integration team for the 11g release as well as the initial 10.1.3.1 team for Oracle SOA Suite product development. The highlights of this very successful stint were the following -
     description1: >
-                  Define Use Cases and service engine communication protocols with enhancements for BPEL, mediator and rules. Incorporating SCA, JBI, WS-Eventing standards.
+                  Oracle Fusion Middleware 11g is the stack of JBI (Java Business Integration) and SCA (Service Component Architecture) compliant enterprise middleware following evolving industry standards and patterns consisting of components or Service Engines on a common fabric engine. The Integration team at Oracle Server Technologies enabled the SCA Components.
     description2: >
-                  UDDI integration with BPEL PM and HA topology creation and maintenance. Define, change and implement the Cross product features for the 10.1.3 Oracle Enterprise Service Bus, BPEL, UDDI and Web Services Manager using open APIs while contributing to OASIS standard specifications.
+                  It includes industry acclaimed BPEL (Business Process Execution Language) Process Manager, mediator, rules, and Human workflow engines with flexible binding components for RFID sensor edge server. The end to end workflows and enhancements were part of the integration team's contributions.
     description3: >
-                  Include and implement Brokered ESB, mediation patterns oriented features. Integration of 10.1.3 individual components primarily with WebSphere Network Deployment and WebSphere MQ.
+                  It leverages a plethora of JCA (J2EE Connector Architecture) compliant adapters along with an Event Delivery network for Complex Event Processing following Event Driven Architecture. 
     description4: >
-                  Build around 10 clustered/non-clustered environments (Linux RHEL 3 / RHEL 4) for his engineering team replicating customer topology combinations for the SOA Suite components at times integrated or deployed on WebSphere, besides the standard Oracle Application Server.
+                  As part of the continued efforts of the Server tech team that Dwai was part of, Oracle Fusion Middleware 11g reached the top right corner of the Gartner magic quadrant for SOA stacks
     description5: >
-                  Assist SWAT Teams.
+                  Define Use Cases and service engine communication protocols with enhancements for BPEL, mediator and rules. Incorporating SCA, JBI, WS-Eventing standards.
+    description6: >
+                  UDDI integration with BPEL PM and HA topology creation and maintenance. Define, change and implement the Cross product features for the 10.1.3 Oracle Enterprise Service Bus, BPEL, UDDI and Web Services Manager using open APIs while contributing to OASIS standard specifications.
+    description7: >
+                  Include and implement Brokered ESB, mediation patterns oriented features. Integration of 10.1.3 individual components primarily with WebSphere Network Deployment and WebSphere MQ.
+    description8: >
+                  Build around 10 clustered/non-clustered environments (Linux RHEL 3 / RHEL 4) for his engineering team replicating customer topology combinations for the SOA Suite components at times integrated or deployed on WebSphere, besides the standard Oracle Application Server. Assist SWAT Teams.
+    description9: >
+                  SOA, OpenSource, Enterprise Architectural Patterns, Oracle, BAM, UDDI, ESB, EJB3, python, Deployment Patterns, Security, JWT, Java, Messaging,  vSphere, python/jython, Complex Event Processing, Core Java, Linux, Messaging, vSphere, SAAS, B2B, CISCO, JavaScript.
 
-    
   - prof: Engineer
     place: IBM, India and the World.
     time: November, 2003 to April, 2006
@@ -156,44 +224,64 @@ source:
     description1: >
                   Worked as an Architect with WaveOnline which is an enterprise application management and monitoring solution with WebSphere ESB, WebSphere MQ, WebSphere Process Server enhancing on the CEI (Common Event Infrastructure).
     description2: >
-                   Worked as a Security Expert at Bharti Tele Ventures which involved defining the Security Architectural Principle for Bharti following MESA [Method of Architecting Security Solutions] which identified Six Sets of Common Services. Massively used Knoppix, Nessus and PHLAK (Professional Hacker's Linux Assault Kit).
+                  Worked as a Security Expert at Bharti Tele Ventures which involved defining the Security Architectural Principle for Bharti following MESA [Method of Architecting Security Solutions] which identified Six Sets of Common Services.
     description3: >
-                   Worked for the CIB (Corporate Integration Backbone) of The Department of Work & Pensions (DWP), Government of United Kingdom where he worked on the Web Services gateway which sits outside the CIB and performs filtering in a B2B scenario offering performance improvements in throughput, scalability and response times. Defined the intermediation that is performed using JAX-RPC handler chains on channels or Target service(s), performing the SOAP role in a non-proxy mode deployment. Performed capacity planning for DWP systems matrix. 
+                  Massively used Knoppix, Nessus and PHLAK (Professional Hacker's Linux Assault Kit) as part of the above initiative.
     description4: >
-                   Worked at the FirstCaribbean International bank (FCIB) (a Barclay and CIBC Joint Venture). The echannels initiative followed a hybrid banking model and went for the integration of the AS400 based core banking and channels like IVR systems. Designed & implemented the WebSphere Message Broker infrastructure, flows, DB2 & Tivoli Usage. Implemented a MQ based Disaster Recovery solution and automated FCIB’s Implemented Queue Administration, Monitoring, Security Audit processes via “MQTools" (an AIX menu based tooling).
+                   Worked for the CIB (Corporate Integration Backbone) of The Department of Work & Pensions (DWP), Government of United Kingdom where he worked on the Web Services gateway which sits outside the CIB and performs filtering in a B2B scenario offering performance improvements in throughput, scalability and response times.
     description5: >
-                   Worked on the Nestlé Globe EDI Gateway at the initial inception stage at Nestlé HQ. This was to become one of the largest B2B Gateways in the world. Primary focus was on WebSphere Data Interchange (WDI), Cyclone Interchange, Transaction Director (TxD) and AIX. Architecture enhancements & implement the Proof of Concept with Pallet Management using WDI. Develop the message flows for the Vendor Managed Inventory, adapter modules & WDI exits. Customize the TxD Listener and create an Events Subsystem for TEC (Tivoli Enterprise Console). Define the AIX HACMP (High Availability Clustered Managed Processing) backup, recovery procedures.
+                  Defined the intermediation that is performed using JAX-RPC handler chains on channels or Target service(s), performing the SOAP role in a non-proxy mode deployment. Performed capacity planning for DWP systems matrix. 
+    description6: >
+                   Worked at the FirstCaribbean International bank (FCIB) (a Barclay and CIBC Joint Venture). The echannels initiative followed a hybrid banking model and went for the integration of the AS400 based core banking and channels like IVR systems.
+    description7: >
+                   Designed & implemented the WebSphere Message Broker infrastructure, flows, DB2 & Tivoli Usage. Implemented a MQ based Disaster Recovery solution and automated FCIB’s Implemented Queue Administration, Monitoring, Security Audit processes via “MQTools" (an AIX menu based tooling).
+    description8: >
+                   Worked on the Nestlé Globe EDI Gateway at the initial inception stage at Nestlé HQ. This was to become one of the largest B2B Gateways in the world. Primary focus was on WebSphere Data Interchange (WDI), Cyclone Interchange, Transaction Director (TxD) and AIX. Architecture enhancements & implement the Proof of Concept with Pallet Management using WDI. Develop the message flows for the Vendor Managed Inventory, adapter modules & WDI exits. Customize the TxD Listener and create an Events Subsystem for TEC (Tivoli Enterprise Console). Define the AIX HACMP (High Availability Clustered Managed Processing) backup, recovery procedures as part of the above initiative
+    description9: >
+                   SOA, OpenSource, Enterprise Architectural Patterns, ESB, BPEL, WebSphere, EJB3, python, Deployment Patterns, Security, JWT, Java, Messaging,  vSphere, python/jython, Complex Event Processing, Core Java, Linux, AIX, Messaging, vSphere, SAAS, B2B, CISCO, JavaScript, PHLAK (Professional Hacker's Linux Assault Toolkit), Oracle, i-Series.  
 
-    
   - prof: Developer
     place: Ontrack Systems Ltd., Calcutta, India
     time: July, 2003 to October, 2003
     description: Developer of an end to end Distributed Logistics systems for Japanese and British customers.
     description1: >
-                   Dwai worked in the eSCM (e-Supply Chain Management) initiative which aimed at integrating Mitsui & Company (UK) plc’s Supply chain model along with the process partners.
+                  Dwai worked in the eSCM (e-Supply Chain Management) initiative which aimed at integrating Mitsui & Company (UK) plc’s Supply chain model along with the process partners.
     description2: >
                    The main motivation was to move towards zero latency in transparent information sharing primarily via eDocuments.
     description3: >
-                   Dwai defined the use cases of the eSCM product.
+                  Dwai defined the use cases of the eSCM product.
     description4: >
-                   Implement Design patterns, the build systems and  runtime products like JBoss, the linux flavors, java packages to use.
+                  Implement Design patterns, the build systems and  runtime products like JBoss, the linux flavors, java packages to use.
     description5: >
-                   Develop the core modules.
-
-    
+                  Develop the core modules.
+    description6: >
+                  Developed basic eDocument signing.
+    description7: >
+                  Work on initial TLS 1.0 on top of SSL 3.0 
+    description8: >
+                  Went live with eSCM with a plethora of features. eSCM is still used for SMBs especially in the United Kingdom.
+    description9: >
+                  Design Patterns, WebSphere, EJB3, python, Deployment Patterns, Security, Java, Messaging.
     
   - prof: C++/Web developer
     place: Various, Pan Indian sub-continent.
     time: 2001 to July, 2003
     description: Worked as a java/c++/web programmer and linux administrator.
     description1: >
-                   Worked mostly on messaging systems, large linux based topologies, web development and C++ routines.
+                   Worked mostly on messaging systemsweb development and C++ routines.
     description2: >
-                   Both Banking customers and product development.
+                   Build and maintain large linux based topologies, 
     description3: >
                    Extensive use of WebLogic and Sun OS, besides standard linux flavours.
     description4: >
-                   Implementation of various OOPs design patterns.
+                   Work on banking Onboard applications.
     description5: >
-                   Work with initial VT-x.
-
+                   Develop specific User Exits in C++ for WebSphere MQ.
+    description6: >
+                   Develop Single Sign On during it's initial days with the help of interceptors.
+    description7: >
+                   Implementation of various OOPs design patterns.
+    description8: >
+                   Work with initial VT-x. Organize Linux Fests.
+    description9: >
+                  Opensource, Design Patterns, EJB, python, Deployment Patterns, Security, Java, Messaging.
