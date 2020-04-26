@@ -23,7 +23,7 @@ source:
     description8: >
                   Kicked off initiatives in exploring and enhancing CLARA Medical Image Containers and NVIDA DIGITS based frameworks as a viable commercial product on commodity hardware and cards. Assist in establishing standard tool stacks at Philips R&D and accelerating standards based Microservices incubation and roll-outs.
     description9: >
-                  OpenSource, Enterprise Architectural Patterns, Kubernetes, Security, helm3, AWS, StratoScale, vSphere, RHEL, CentOS, Consul, EFK, Prometheus, Kubernetes OID, Keycloak, Microservices, GPUs, NVIDIA, Ansible, CUDA, Python, APIs, Immutability, Service Mesh, Air-gapped Environment, Java, Spring Cloud, HL7, FHIR, Deployments, Jenkins, Ansible, Terraform, Postgres, Active Directory, HPC, RDMA, GPU-Direct.
+                  OpenSource, Enterprise Architectural Patterns, Kubernetes, Security, helm3, AWS, StratoScale, vSphere, RHEL, CentOS, Consul, Vault, EFK, Prometheus, Kubernetes OID, Keycloak, Microservices, GPUs, NVIDIA, CUDA, Python, APIs, Immutability, Service Mesh, Air-gapped Environment, Java, Spring Cloud, HL7, FHIR, Deployments, Jenkins, Ansible, Terraform, Postgres, Active Directory, HPC, RDMA, GPU-Direct.
 
   - prof: Senior Solution Director
     place: HCL Technologies, The Netherlands and Western Europe
@@ -47,7 +47,7 @@ source:
     description8: >
                   Implement cloud based SaaS Self service app for multi cloud deployments. Contribute to opensource and CNCF Projects on Github.
     description9: >
-                  OpenSource, Enterprise Architectural Patterns, Microservices, API Design, Java, Spring Cloud, Service Mesh, Kubernetes, AKS, GKE, Dataproc, GCP, Azure, AWS, Ansible, Terraform, Postgres, Oracle, Ansible, Terraform, Hadoop, Kafka, Istio, Prometheus, EFK, ELK, CUDA, NVIDIA, Schedulers- Torque, SLURM,HPC, RDMA, GPU-Direct, ROS Kinetic, Mellanox, Keycloak, Security, Red hat OSE, HAProxy, Middleware, python, golang, helm2, CI/CD, node.js
+                  OpenSource, Enterprise Architectural Patterns, Microservices, API Design, Java, Spring Cloud, Service Mesh, Kubernetes, AKS, GKE, Dataproc, GCP, Azure, AWS, Postgres, Oracle, Ansible, Terraform, Hadoop, Kafka, Istio, Prometheus, EFK, ELK, CUDA, NVIDIA, Schedulers- Torque, SLURM,HPC, RDMA, GPU-Direct, ROS Kinetic, Mellanox, Keycloak, Security, Red hat OSE, HAProxy, Middleware, python, golang, helm2, CI/CD, node.js
 
   - prof: Cloud Solution Architect
     place: Microsoft B.V., The Netherlands, Seattle and Houston
