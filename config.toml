@@ -27,3 +27,8 @@ theme = "hugo-vitae"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
+  
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
