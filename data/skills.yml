@@ -5,7 +5,7 @@ source:
   - name: [Large Digital Transformations, Virtualization, Topology Patterns, Engineering Labs Automation, Engineering Team Management, Product Management, Solutioning, Distributed Program Writing, Micro Services Architecture, Container Management Platforms, HPC Fabrics, GPU Usage and provisioning, RNN using GPU for Scientific Applications, Business Budgeting, Center of Excellence Driving, Integration Vendor Stacks]
     stars: 4
 
-  - name: [C/C++, Shell, Python, Go, node.js, Java EE, Spring Boot, Git, Gerrit]
+  - name: [Service Patterns in Go (gRPC, Protobuf, DDD), C/C++, Shell, Python, node.js, Java EE, Spring Boot, Git, Gerrit]
     stars: 4
     
   - name: [Linux, UNIX, Fedora, RHEL, CentOS, Ubuntu, Custom Kernels, AIX, HP-UX]
